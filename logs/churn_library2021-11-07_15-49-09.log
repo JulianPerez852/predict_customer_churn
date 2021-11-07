@@ -1,0 +1,12 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Testing perform_eda: SUCCESS
+root - ERROR - Testing perform_eda: The file dataframe wasn't defined accuratly
+root - INFO - Testing perform_eda: SUCCESS
+root - ERROR - Testing encoder_helper: The file dataframe wasn't defined accuratly
+root - ERROR - Testing encoder_helper:  any of the keys in CAT_COLUMNS is bad defined
+root - ERROR - Testing encoder_helper:  any of the keys in CAT_COLUMNS is bad defined
+root - ERROR - Testing encoder_helper:  any of the keys in CAT_COLUMNS is bad defined
+root - INFO - Testing encoder_helper: SUCCESS
+root - INFO - Testing encoder_helper: SUCCESS
+root - INFO - Testing test_perform_feature_engineering: SUCCESS
+root - INFO - Testing test_train_models: SUCCESS
