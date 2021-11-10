@@ -1,7 +1,9 @@
 '''
-Churn credit analysis
+    Churn credit analysis
 
-Author: Julián David Pérez Hincapié
+    Author: Julián David Pérez Hincapié
+
+    Creation Date: 11/07/2021
 '''
 
 
